@@ -1,0 +1,34 @@
+Características juego de plataformas en 2D (se va a basar en el metal slug):
+-	Mecánicas del personaje:
+	o	Salto.
+	o	Power ups, en forma de armas, soltado por enemigos:
+			Pistola
+			Metralleta
+			Escopeta
+			Espada
+			Granadas
+	o	Plataformas, se puede subir desde abajo pero no se puede bajar, solo se puede subir saltando.
+	o	Si te tocan, mueres.
+	o	Dispara recto hacia donde mira (hacia arriba si no llega) si toca una pared desaparece.
+	o	Vidas (5): si te quitan todas las vidas, vuelves a empezar el juego
+	o	Cuando coges los power ups cambias de personaje dependiendo del arma.
+-	Mundo:
+	o	Cámara móvil, de izquierda a derecha, que siga al personaje
+	o	Personajes tipo fruta(temática graciosa)
+	o	Rastros de partículas de sangre.
+	o	Checkpoint*
+	o	3 o 4 niveles
+	o	Agujero/agua/lava te caes y mueres
+	o	Recogemos semillas (puntos que te dan una vida extra) 
+	o	Pausa para salir
+	o	Pantalla final de juego cuando te matan
+-	Enemigos
+	o	Puntos por kills
+	o	Enemigos diferentes (por aire, y por tierra) 
+	o	Algunos enemigos disparan, algunos recto, y otros al personaje.
+	o	Boss de transición entre niveles, con más vida que el resto.
+	o	Enemigos tipo mono.
+-	Interfaz del inicio
+	o	Nueva partida
+	o	Controles
+	o	Créditos
